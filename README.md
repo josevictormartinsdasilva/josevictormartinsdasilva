@@ -90,5 +90,5 @@ Mostra como rodar **lint e testes unitários ABAP fora do SAP** — localmente o
 ---
 
 <p align="center">
-  <i>Obrigado pela visita! Vamos nos conectar 🚀</i>
+  <i>Obrigado pela visita! 🚀</i>
 </p>
